@@ -1,7 +1,3 @@
-# UVUM
-Universal Virtual Upscaler Monitor — GPU-based virtual display and real-time supersampling, rendering games at higher resolutions and downscaling them to your monitor. Windows x64.
-
-
 # Universal Virtual Upscaler Monitor (UVUM)
 
 **Real-time GPU supersampling through a virtual display.**
