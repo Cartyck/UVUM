@@ -257,13 +257,14 @@ Comparativas previstas:
 - Diferentes filtros de reducción.
 - Configuraciones de antialiasing y nitidez.
 - Demostraciones en juegos reales.
+
+*Las comparativas utilizarán la misma escena del juego y configuraciones equivalentes.*
 ## Comparativa visual
 
 | Native 1920×1080 | UVUM — 4K → 1080p |
 |:---:|:---:|
 | ![Native 1920x1080](images/old-test/pantalla%201%201080p.PNG) | ![UVUM 4K downscaled to 1080p](images/old-test/pantalla%201%204K.PNG) |
 | Original resolution | 4K supersampling |
-*Las comparativas utilizarán la misma escena del juego y configuraciones equivalentes.*
 
 ## Características
 
