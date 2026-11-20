@@ -71,7 +71,7 @@ Planned comparisons:
 
 *All comparisons should use the same game scene and comparable settings.*
 Native 1920x1080
-https://github.com/Cartyck/UVUM/blob/main/images/old-test/pantalla%201%201080p.PNG
+images/old-test/pantalla 1 1080p.PNG
 Native 1920x1080 UVUM ---> 4K
 https://github.com/Cartyck/UVUM/blob/main/images/old-test/pantalla%201%204K.PNG
 ## Features
