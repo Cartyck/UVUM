@@ -70,10 +70,12 @@ Planned comparisons:
 - Real gameplay demonstrations.
 
 *All comparisons should use the same game scene and comparable settings.*
-Native 1920x1080
-images/old-test/pantalla 1 1080p.PNG
-Native 1920x1080 UVUM ---> 4K
-https://github.com/Cartyck/UVUM/blob/main/images/old-test/pantalla%201%204K.PNG
+## Image comparison / Comparativa visual
+
+| Native 1920×1080 | UVUM — 4K → 1080p |
+|:---:|:---:|
+| ![Native 1920x1080](images/old-test/pantalla%201%201080p.PNG) | ![UVUM 4K downscaled to 1080p](images/old-test/pantalla%201%204K.PNG) |
+| Original resolution | 4K supersampling |
 ## Features
 
 ### Virtual display and rendering
